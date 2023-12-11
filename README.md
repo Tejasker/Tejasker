@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Chathra Sai Tejasker</h1>
 <h3 align="center">Craftsmanship at coding & Open Source Contributor</h3>
- <img align="right" src="https://th.bing.com/th/id/OIG.UZJPVoNtaW_E1FiiVn3h?pid=ImgGn" height="350"/>
+<img align="right" src="https://th.bing.com/th/id/OIG.UZJPVoNtaW_E1FiiVn3h?pid=ImgGn" height="350"/>
+
 - 🔭 I’m currently working on building **Backend Systems**
 
-- 🌱 I’m currently learning **GO lang**
+- ✨ I’m excited in **Sarting my Open source journey**
 
-- 👯 I’m looking to collaborate and Contribute on **Open source & Java Applications**
+- 🌱 I’m currently learning **GO lang and DevOps**
 
-- 💬 Ask me about **Java , Spring Boot , Go**
+- 👯 I’m looking to Contribute on any  **Open source projects **
+
+-  🎡 I love to create  **Java Applications**
+
+- 💬 Ask me about **Java ,OOPS, Spring Boot , Go**
 
 - 📫 How to reach me **chathrasaitejasker.c@gmail.com**
 
