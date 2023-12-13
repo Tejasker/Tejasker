@@ -6,9 +6,11 @@
 
 - ✨ I’m excited in **Sarting my Open source journey**
 
-- 🌱 I’m currently learning **GO lang and DevOps**
+- ✔ I can meet your expectations in **Java Language & Spring Boot**
 
-- 👯 I’m looking to Contribute on any  **Open source projects **
+- 🌱 I’m currently learning **GO lang**
+
+- 👯 I’m looking to Contribute on any  **Open source projects**
 
 -  🎡 I love to create  **Java Applications**
 
